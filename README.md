@@ -1,3 +1,3 @@
 ### Allo
 
-Data analyst working in Melbourne, Australia.
+A Data person working in Australia.
